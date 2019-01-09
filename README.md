@@ -12,3 +12,4 @@ Sample text-1
 
 ##Deployment
 Sample text
+Copyright notice:
