@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work and specifically only for learning purposes
 Sample text
+Sample text-2
 
 ## Purpose
 
