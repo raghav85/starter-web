@@ -2,5 +2,6 @@
 .DS_Store
 # Any file that ends with .log will be excluded
 *.log
+*.orig
 # Ignore an entire folder called css
 css/
