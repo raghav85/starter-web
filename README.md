@@ -1,6 +1,6 @@
-# Starter Web Repo
+# Starter Web Repo- Raghav
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work and specifically only for learning purposes
 
 ## Purpose
 
